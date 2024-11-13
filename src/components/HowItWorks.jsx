@@ -62,7 +62,7 @@ const videoRef = useRef();
                     </div>
 
                     <p className='text-gray font-semibold text-center'> 
-                        Honkai: Star Rail
+                        PUBG Mobile
                     </p>
 
                     </div>
